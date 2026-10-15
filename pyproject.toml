@@ -1,0 +1,7 @@
+[project]
+name = "promptsift"
+version = "1.0.0"
+description = "Local-first CLI for versioning AI prompts. Built by Mourad.Soltani"
+authors = [{name = "Mourad.Soltani"}]
+readme = "README.md"
+requires-python = ">=3.8"
